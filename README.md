@@ -10,6 +10,7 @@
 
 # Entrega 2
 
-https://youtu.be/JDsj2zBU4yo
+[Video entrega - 2](https://youtu.be/JDsj2zBU4yo)
 
 # PROYECTO FINAL
+[Video_entrega_final]
